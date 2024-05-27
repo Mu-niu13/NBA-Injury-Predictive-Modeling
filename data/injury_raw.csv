@@ -463,7 +463,7 @@ Date,Team,Acquired,Relinquished,Notes
 1988-03-29, Kings, ,LaSalle Thompson, right knee injury (out for season)
 1988-03-30, Kings, ,Derek Smith, surgery to repair fractured left eye rim (out for season)
 1988-04-24, Cavaliers, ,Kevin Henderson, admitted to clinic for emotional problems
-1988-05-13, Sonics, ,Xavier McDaniel, arthroscopic surgery on right knee to repair small tear
+1988-05-13, Sonics, ,Xavier McDaniel, arthroscopic surgery on right knee to repair small tear (out indefinitely)
 1988-05-27, Nuggets, ,Lafayette Lever / Fat Lever, arthroscopic surgery on right knee
 1988-07-07, Mavericks, ,Detlef Schrempf, surgery on left ankle to repair stress fracture
 1988-07-12, Pistons, ,Rick Mahorn, surgery to remove ruptured disc (out indefinitely)
@@ -7489,7 +7489,7 @@ Date,Team,Acquired,Relinquished,Notes
 2002-01-10, Knicks, ,Travis Knight, bruised right knee (DNP)
 2002-01-10, Mavericks, ,Shawn Bradley, bruised right knee (DNP)
 2002-01-10, Nuggets, ,George McCloud, strained right calf (DNP)
-2002-01-10, Spurs, ,Bruce Bowen, broken right middle finger (out 6-8 weeks)
+2002-01-10, Spurs, ,Bruce Bowen, fractured right middle finger (out indefinitely)
 2002-01-11, 76ers, ,Raja Bell, neck spasms (DNP)
 2002-01-11, Bucks, ,Glenn Robinson (Jr.), bruised left thigh (DNP)
 2002-01-11, Clippers, ,Corey Maggette, strained right patella tendon (DNP)
@@ -19997,7 +19997,7 @@ Date,Team,Acquired,Relinquished,Notes
 2013-02-24, Cavaliers, ,Omri Casspi, appendectomy (out indefinitely)
 2013-02-24, Cavaliers, ,Omri Casspi, recovering from appendectomy (DNP)
 2013-02-25, Pistons, ,Brandon Knight, hyperextended right knee / sprained right ankle (DNP)
-2013-02-25, Raptors, ,Sebastian Telfair, flu (DNP)
+2013-02-25, Raptors, ,Sebastian Telfair, flu (DTD)
 2013-02-26, Bulls, ,Taj Gibson, sprained left knee (DNP)
 2013-02-26, Cavaliers, ,Kyrie Irving, hyperextended right knee (DNP)
 2013-02-26, Cavaliers, ,Omri Casspi, recovering from appendectomy (DNP)
@@ -20010,6 +20010,7 @@ Date,Team,Acquired,Relinquished,Notes
 2013-02-27, Hornets, ,Eric Gordon, sore knee (DNP)
 2013-02-27, Jazz, ,Paul Millsap, sprained left ankle (DNP)
 2013-02-27, Magic, ,Jameer Nelson, bruised patella in left knee (DNP)
+2013-02-27, Raptors,Sebastian Telfair, , returned to lineup
 2013-02-28, Bulls, ,Richard Hamilton, lower back spasms (DNP)
 2013-02-28, Bulls, ,Taj Gibson, sore left knee (DNP)
 2013-02-28, Timberwolves, ,Andrei Kirilenko, strained left calf (DNP)
@@ -20163,7 +20164,7 @@ Date,Team,Acquired,Relinquished,Notes
 2013-03-22, Knicks, ,Tyson Chandler, bulging disc in neck (DNP)
 2013-03-22, Magic, ,Nikola Vucevic, concussion (DNP)
 2013-03-22, Pistons, ,Brandon Knight, sprained left ankle (DNP)
-2013-03-22, Raptors, ,Sebastian Telfair, knee injury (DNP)
+2013-03-22, Raptors, ,Sebastian Telfair, knee injury (DTD)
 2013-03-22, Rockets, ,Tim Ohlbrecht, sprained ankle (DNP)
 2013-03-22, Suns, ,Jared Dudley, stomach virus / flu (DNP)
 2013-03-22, Suns, ,Jermaine O'Neal, strained left calf (DNP)
@@ -20178,7 +20179,6 @@ Date,Team,Acquired,Relinquished,Notes
 2013-03-23, Magic, ,Arron Afflalo, strained right hamstring (out for season)
 2013-03-23, Nuggets, ,Ty Lawson, sore heel (DNP)
 2013-03-23, Raptors, ,Rudy Gay, stiff back (DNP)
-2013-03-23, Raptors, ,Sebastian Telfair, knee injury (DNP)
 2013-03-23, Wizards, ,Bradley Beal, sprained left ankle (DNP)
 2013-03-23, Wizards, ,Trevor Ariza, flu (DNP)
 2013-03-24, Bobcats, ,Josh McRoberts, left shoulder injury (DNP)
@@ -20216,7 +20216,6 @@ Date,Team,Acquired,Relinquished,Notes
 2013-03-27, Magic, ,Arron Afflalo, strained right hamstring (DNP)
 2013-03-27, Magic, ,Nikola Vucevic, concussion (DNP)
 2013-03-27, Nets, ,Joe Johnson, bruised right quadriceps (DNP)
-2013-03-27, Raptors, ,Sebastian Telfair, knee injury (DNP)
 2013-03-27, Rockets, ,Francisco Garcia, illness (DNP)
 2013-03-27, Wizards, ,Bradley Beal, sprained left ankle (DNP)
 2013-03-27, Wizards, ,Jason Collins, sprained left ankle (P) / flu (CBC) (DNP)
@@ -20237,7 +20236,6 @@ Date,Team,Acquired,Relinquished,Notes
 2013-03-29, Magic, ,Arron Afflalo, strained right hamstring (DNP)
 2013-03-29, Magic, ,Nikola Vucevic, concussion (DNP)
 2013-03-29, Pistons, ,Charlie Villanueva, illness (DNP)
-2013-03-29, Raptors, ,Sebastian Telfair, knee injury (DNP)
 2013-03-29, Rockets, ,Francisco Garcia, illness (DNP)
 2013-03-29, Wizards, ,Jason Collins, flu (DNP)
 2013-03-29, Wizards, ,Nene / Nene Hilario / Maybyner Hilario, sore right knee (DNP)
@@ -20257,6 +20255,7 @@ Date,Team,Acquired,Relinquished,Notes
 2013-03-31, Heat, ,Dwyane Wade, sprained right ankle (DNP)
 2013-03-31, Heat, ,LeBron James, strained right hamstring (DNP)
 2013-03-31, Knicks, ,Tyson Chandler, bulging disc in neck (DNP)
+2013-03-31, Raptors,Sebastian Telfair, , returned to lineup
 2013-03-31, Pistons, ,Will Bynum, strained right hand (DNP)
 2013-04-01, Bobcats, ,Byron Mullens / B.J. Mullens, sore left ankle (DNP)
 2013-04-01, Cavaliers, ,C.J. Miles, sore right ankle (DNP)
@@ -30297,10 +30296,9 @@ Date,Team,Acquired,Relinquished,Notes
 2023-05-10, Knicks, ,Evan Fournier, illness (out for season)
 2023-05-11, Suns, ,Deandre Ayton, bruised ribcage (out for season)
 2023-08-02, 76ers, ,Montrezl Harrell, torn ACL in knee (out indefinitely)
-2023-08-05, Nuggets, ,Vlatko Cancar, torn ACL in knee (out indefinitely)
-2023-08-21, Bulls, ,Lonzo Ball, recovering from surgery on left knee (out for season)
+2023-08-05, Nuggets, ,Vlatko Cancar, torn ACL in left knee (out for season)
+2023-08-17, Nuggets, ,Vlatko Cancar, surgery on left knee to repair torn ACL (out for season)
 2023-09-07, Pelicans, ,Trey Murphy III, surgery on left knee to repair meniscus (out indefinitely)
-2023-10-01, Suns, ,Damion Lee, right knee injury (DTD)
 2023-10-01, Wizards, ,Landry Shamet, fractured big toe (out indefinitely)
 2023-10-02, Grizzlies, ,Brandon Clarke, recovering from torn left Achilles tendon (out indefinitely)
 2023-10-02, Pistons, ,Isaiah Livers, sprained left ankle (out indefinitely)
@@ -30308,7 +30306,6 @@ Date,Team,Acquired,Relinquished,Notes
 2023-10-08, Celtics, ,Jay Scrubb, torn ACL in knee (out for season)
 2023-10-10, Hornets, ,James Bouknight, surgery on left knee (out indefinitely)
 2023-10-12, Wizards, ,Anthony Gill, left hamstring injury (out indefinitely)
-2023-10-22, Grizzlies, ,Steven Adams, surgery on right knee (out for season)
 2023-10-23, Lakers, ,Jarred Vanderbilt, sore left heel (DTD)
 2023-10-24, Lakers, ,Jalen Hood-Schifino, bruised right knee (DTD)
 2023-10-24, Magic, ,Kevon Harris, sore knee (DTD)
@@ -30329,7 +30326,6 @@ Date,Team,Acquired,Relinquished,Notes
 2023-10-27, Mavericks,Jaden Hardy, , returned to lineup
 2023-10-27, Nets, ,Cameron Johnson, bruised left calf (DTD)
 2023-10-27, Rockets, ,Nate Hinton, sprained right ankle (DTD)
-2023-10-28, Cavaliers, ,Ty Jerome, sprained right ankle (DTD)
 2023-10-28, Wizards,Anthony Gill, , returned to lineup
 2023-10-29, Rockets,Nate Hinton, , returned to lineup
 2023-10-30, Bucks, ,MarJon Beauchamp, illness (DTD)
@@ -30421,11 +30417,9 @@ Date,Team,Acquired,Relinquished,Notes
 2023-12-10, Knicks, ,Mitchell Robinson, left ankle inflammation (DTD)
 2023-12-11, Bulls, ,Alex Caruso, sprained left ankle (DTD)
 2023-12-11, Clippers,Brandon Boston Jr. / B.J. Boston Jr., , returned to lineup
-2023-12-11, Hornets, ,Mark Williams, bruised lower back (DTD)
 2023-12-11, Jazz, ,Walker Kessler, sore right foot (DTD)
 2023-12-11, Knicks, ,Immanuel Quickley, right knee inflammation (DTD)
 2023-12-11, Pistons, ,Marvin Bagley III, lower back spasms (DTD)
-2023-12-11, Spurs, ,Charles Bassey, torn ACL in left knee (out for season)
 2023-12-11, Warriors,Chris Paul, , returned to lineup
 2023-12-12, Clippers, ,Brandon Boston Jr. / B.J. Boston Jr., illness (DTD)
 2023-12-12, Lakers, ,Jarred Vanderbilt, lower back spasms (DTD)
@@ -30513,7 +30507,6 @@ Date,Team,Acquired,Relinquished,Notes
 2024-01-03, Nets, ,Dennis Smith Jr., sore lower back (DTD)
 2024-01-03, Pacers, ,Andrew Nembhard, back injury (DTD)
 2024-01-03, Pelicans, ,Jeremiah Robinson-Earl, illness (DTD)
-2024-01-03, Rockets, ,Tari Eason, sore leg (DTD)
 2024-01-04, Hornets,Brandon Miller, , returned to lineup
 2024-01-04, Spurs, ,Malaki Branham, sprained right ankle (DTD)
 2024-01-04, Hawks, ,Vit Krejci, left shoulder sublaxation (DTD)
@@ -30524,20 +30517,17 @@ Date,Team,Acquired,Relinquished,Notes
 2024-01-05, Pelicans,Jeremiah Robinson-Earl, , returned to lineup
 2024-01-05, Raptors, ,Gary Trent Jr., bruised left quadriceps (DTD)
 2024-01-06, 76ers, ,Joel Embiid, left knee injury (DTD)
-2024-01-06, 76ers, ,Robert Covington, illness (DTD)
-2024-01-07, Grizzlies, ,Ja Morant, sore right shoulder (out for season)
 2024-01-07, Magic,Goga Bitadze, , returned to lineup
 2024-01-07, Raptors,Gary Trent Jr., , returned to lineup
 2024-01-07, Spurs,Malaki Branham, , returned to lineup
 2024-01-08, Blazers, ,Moses Brown, surgery on left wrist to repair non-displaced fracture (out indefinitely) (date approximate)
 2024-01-08, Bulls,Alex Caruso, , returned to lineup
-2024-01-08, Grizzlies, ,Ja Morant, surgery on shoulder to repair labrum (out for season)
+2024-01-08, Grizzlies, ,Ja Morant, surgery on right shoulder to repair labrum (out for season)
 2024-01-09, Grizzlies, ,Santi Aldama, bruised left knee (DTD)
 2024-01-09, Nets, ,Day'Ron Sharpe, hyperextended left knee (DTD)
 2024-01-09, Magic, ,Wendell Carter Jr., right knee tendinitis (DTD)
 2024-01-10, Pacers, ,Jalen Smith, sore lower back (DTD)
 2024-01-10, Raptors, ,Pascal Siakam, back spasms (DTD)
-2024-01-11, Grizzlies, ,Marcus Smart, finger injury (out indefinitely)
 2024-01-11, Lakers, ,Christian Wood, migraine headache (DTD)
 2024-01-12, 76ers, ,Kelly Oubre Jr., right big toe injury (DTD)
 2024-01-12, Pacers,Jalen Smith, , returned to lineup
@@ -30573,7 +30563,6 @@ Date,Team,Acquired,Relinquished,Notes
 2024-01-17, Raptors,Christian Koloko, , returned to lineup
 2024-01-18, 76ers,Danuel House Jr., , returned to lineup
 2024-01-18, Bulls,Patrick Williams, , returned to lineup
-2024-01-18, Nets, ,Dariq Whitehead, various injuries (out indefinitely)
 2024-01-18, Suns,Yuta Watanabe, , returned to lineup
 2024-01-19, Pistons, ,Isaiah Stewart, sprained left ankle (DTD)
 2024-01-20, Cavaliers, ,Caris LeVert, sprained right wrist (DTD)
@@ -30586,7 +30575,7 @@ Date,Team,Acquired,Relinquished,Notes
 2024-01-24, Lakers, ,Cam Reddish, sprained right ankle (DTD)
 2024-01-24, Rockets, ,Jabari Smith Jr., sprained left ankle (DTD)
 2024-01-25, 76ers, ,Tobias Harris, illness (DTD)
-2024-01-25, Cavaliers, ,Ty Jerome, surgery on right ankle (out indefinitely)
+2024-01-25, Cavaliers, ,Ty Jerome, surgery on right ankle (out for season)
 2024-01-25, Pacers,Jalen Smith, , returned to lineup
 2024-01-26, Grizzlies,Santi Aldama, , returned to lineup
 2024-01-26, Pelicans, ,Zion Williamson, bruised left foot (DTD)
@@ -30653,11 +30642,9 @@ Date,Team,Acquired,Relinquished,Notes
 2024-02-10, Hawks,Dejounte Murray, , returned to lineup
 2024-02-10, Knicks,Jalen Brunson, , returned to lineup
 2024-02-10, Pelicans, ,Cody Zeller, bruised/sore left knee (DTD)
-2024-02-11, Blazers, ,Malcolm Brogdon, right elbow tendinitis (DTD)
 2024-02-12, Bulls, ,Alex Caruso, toe injury (DTD)
 2024-02-12, Grizzlies, ,Derrick Rose, sore right ankle (DTD)
 2024-02-12, Hawks,De'Andre Hunter, , returned to lineup
-2024-02-12, Heat, ,Josh Richardson, dislocated right shoulder (out indefinitely)
 2024-02-12, Knicks,Duane Washington Jr., , returned to lineup
 2024-02-12, Nuggets,Michael Porter Jr., , returned to lineup
 2024-02-12, Timberwolves, ,Wendell Moore Jr., sore left knee (DTD)
@@ -30678,7 +30665,6 @@ Date,Team,Acquired,Relinquished,Notes
 2024-02-20, Knicks,Bojan Bogdanovic, , returned to lineup
 2024-02-20, Knicks,Donte DiVincenzo, , returned to lineup
 2024-02-21, Cavaliers,Sam Merrill, , returned to lineup
-2024-02-21, Lakers, ,Christian Wood, left knee injury (out indefinitely)
 2024-02-22, Bulls, ,Torrey Craig, sprained right knee (DTD)
 2024-02-22, Grizzlies,Luke Kennard, , returned to lineup
 2024-02-22, Nuggets, ,Braxton Key, illness (DTD)
@@ -30699,13 +30685,11 @@ Date,Team,Acquired,Relinquished,Notes
 2024-02-27, Knicks, ,Jalen Brunson, neck spasms (DTD)
 2024-02-27, Wizards,Corey Kispert, , returned to lineup
 2024-02-28, Knicks,Isaiah Hartenstein, , returned to lineup
-2024-02-29, Grizzlies, ,Derrick Rose, sore lower back (DTD)
 2024-02-29, Knicks,Jalen Brunson, , returned to lineup
 2024-02-29, Nets, ,Ben Simmons, sore leg (DTD)
 2024-03-01, 76ers, ,Kelly Oubre Jr., sore right shoulder (DTD)
 2024-03-01, Cavaliers, ,Caris LeVert, sprained right elbow (DTD)
 2024-03-01, Hornets, ,Brandon Miller, bruised lower back (DTD)
-2024-03-01, Raptors, ,Scottie Barnes, fractured hand (out indefinitely)
 2024-03-02, Grizzlies,John Konchar, , returned to lineup
 2024-03-03, 76ers, ,Cameron Payne, illness (DTD)
 2024-03-03, 76ers,Kelly Oubre Jr., , returned to lineup
@@ -30714,11 +30698,10 @@ Date,Team,Acquired,Relinquished,Notes
 2024-03-03, Pistons, ,Quentin Grimes, sore right knee (DTD)
 2024-03-03, Suns, ,Josh Okogie, strained abdominal / right hip injury (DTD)
 2024-03-04, Blazers, ,Toumani Camara, illness (DTD)
-2024-03-04, Grizzlies, ,Yuta Watanabe, sprained right wrist (DTD)
-2024-03-04, Raptors, ,Jakob Poeltl, dislocated left finger (DTD)
+2024-03-04, Grizzlies, ,Yuta Watanabe, sprained right wrist (out for season)
 2024-03-04, Rockets, ,Tari Eason, surgery on left leg to remove benign growth (out for season)
 2024-03-05, 76ers,Cameron Payne, , returned to lineup
-2024-03-05, Grizzlies, ,Ziaire Williams, strained hip flexor (out indefinitely)
+2024-03-05, Grizzlies, ,Ziaire Williams, strained hip flexor (out for season)
 2024-03-05, Hawks, ,Kobe Bufkin, toe injury (DTD)
 2024-03-05, Heat, ,Josh Richardson, surgery on right shoulder (out for season)
 2024-03-05, Hornets,Nick Richards, , returned to lineup
@@ -30727,9 +30710,6 @@ Date,Team,Acquired,Relinquished,Notes
 2024-03-06, Magic, ,Wendell Carter Jr., sore right knee (DTD)
 2024-03-06, Pacers, ,Bennedict Mathurin, sprained right shoulder (out indefinitely)
 2024-03-06, Timberwolves, ,Karl-Anthony Towns, sore left knee (DTD)
-2024-03-07, Nets, ,Ben Simmons, lower back injury (out for season)
-2024-03-07, Raptors, ,D.J. Carton, sprained right ankle (DTD)
-2024-03-07, Timberwolves, ,Karl-Anthony Towns, torn meniscus in left knee (out indefinitely)
 2024-03-08, 76ers, ,Nicolas Batum, sore left foot (DTD)
 2024-03-08, Blazers,Toumani Camara, , returned to lineup
 2024-03-08, Grizzlies, ,Gregory Jackson II / G.G. Jackson, sore left knee (DTD)
@@ -30742,36 +30722,29 @@ Date,Team,Acquired,Relinquished,Notes
 2024-03-09, Raptors, ,R.J. Barrett, illness (DTD)
 2024-03-09, Spurs, ,Devin Vassell, bruised left hip (DTD)
 2024-03-10, Grizzlies, ,John Konchar, sore right ankle (DTD)
-2024-03-10, Grizzlies, ,Vince Williams Jr., patellar injury in left knee (DTD)
+2024-03-10, Grizzlies, ,Vince Williams Jr., patellar injury in left knee (out for season)
 2024-03-10, Grizzlies,Gregory Jackson II / G.G. Jackson, , returned to lineup
 2024-03-10, Grizzlies,Luke Kennard, , returned to lineup
 2024-03-10, Timberwolves, ,Kyle Anderson, sore right shoulder (DTD)
 2024-03-10, Timberwolves, ,Rudy Gobert, tightness in right hamstring (DTD)
 2024-03-10, Wizards, ,Richaun Holmes, sprained left big toe (DTD)
-2024-03-11, , ,Alperen Sengun, sprained right ankle (out indefinitely)
 2024-03-11, Pistons, ,Ausar Thompson, illness (DTD)
-2024-03-11, Raptors, ,Chris Boucher, right knee injury (DTD)
 2024-03-11, Raptors, ,Gary Trent Jr., strained right groin (DTD)
 2024-03-11, Raptors,R.J. Barrett, , returned to lineup
 2024-03-11, Spurs,Devin Vassell, , returned to lineup
-2024-03-11, Wizards, ,Landry Shamet, sore left calf (DTD)
 2024-03-12, Grizzlies, ,Lamar Stevens, left adductor injury (DTD)
 2024-03-12, Grizzlies,John Konchar, , returned to lineup
 2024-03-12, Pacers, ,James Johnson, illness (DTD)
 2024-03-12, Timberwolves,Kyle Anderson, , returned to lineup
 2024-03-12, Timberwolves,Rudy Gobert, , returned to lineup
-2024-03-13, Blazers, ,Jerami Grant, strained right hamstring (DTD)
 2024-03-13, Hornets, ,Amari Bailey, illness (DTD)
 2024-03-13, Pacers,James Johnson, , returned to lineup
-2024-03-14, Bulls, ,Julian Phillips, sprained right foot (out indefinitely)
 2024-03-15, Hawks, ,Bogdan Bogdanovic, illness (DTD)
 2024-03-15, Hornets,Amari Bailey, , returned to lineup
 2024-03-15, Raptors,Gary Trent Jr., , returned to lineup
 2024-03-16, Cavaliers, ,Dean Wade, sore right knee (DTD)
 2024-03-16, Pelicans, ,Herbert Jones / Herb Jones (Keyshawn), bruised lower back (DTD)
 2024-03-16, Wizards, ,Deni Avdija, bruised right knee (DTD)
-2024-03-16, Wizards, ,Tyus Jones, lower back spasms (DTD)
-2024-03-16, Hawks, ,A.J. Griffin, lower leg injury (DTD)
 2024-03-17, 76ers, ,Kai Jones, strained right hamstring (DTD)
 2024-03-17, Celtics, ,Jaylen Brown, sprained right ankle (DTD)
 2024-03-17, Hawks,Bogdan Bogdanovic, , returned to lineup
@@ -30780,28 +30753,21 @@ Date,Team,Acquired,Relinquished,Notes
 2024-03-17, Wizards, ,Bilal Coulibaly, fractured right wrist (out for season)
 2024-03-18, Celtics,Jaylen Brown, , returned to lineup
 2024-03-18, Pistons, ,Cade Cunningham, left knee injury (DTD)
-2024-03-18, Pistons, ,Simone Fontecchio, toe injury (DTD)
+2024-03-18, Pistons, ,Simone Fontecchio, bruised left toe (out for season)
 2024-03-19, Pelicans,Herbert Jones / Herb Jones (Keyshawn), , returned to lineup
-2024-03-19, Pistons, ,Isaiah Stewart, strained right hamstring (out for season)
 2024-03-19, Pistons,Cade Cunningham, , returned to lineup
 2024-03-20, Heat,Jimmy Butler, , returned to lineup
 2024-03-20, Heat,Nikola Jovic, , returned to lineup
-2024-03-20, Pistons, ,Ausar Thompson, blood clots (out for season)
 2024-03-20, Pistons, ,Taj Gibson, right hamstring injury (DTD)
-2024-03-21, Lakers, ,Jalen Hood-Schifino, surgery on back (out for season)
 2024-03-21, Pistons, ,Stanley Umude, fractured right ankle (out for season)
-2024-03-22, Pelicans, ,Brandon Ingram, bruised left knee (out indefinitely)
 2024-03-22, Pistons, ,Jalen Duren, back spasms (DTD)
 2024-03-22, Raptors, ,Gary Trent Jr., tightness in lower back (DTD)
-2024-03-23, Blazers, ,Anfernee Simons, left knee tendinitis (DTD)
-2024-03-23, Hawks, ,Onyeka Okongwu, left big toe injury (DTD)
 2024-03-23, Hornets, ,J.T. Thor, left shoulder inflammation (DTD)
 2024-03-23, Raptors,Gary Trent Jr., , returned to lineup
 2024-03-24, Heat, ,Jaime Jaquez Jr., various injuries (DTD)
 2024-03-24, Pistons, ,Cade Cunningham, left knee injury (DTD)
 2024-03-25, 76ers, ,Kelly Oubre Jr., sore left shoulder (DTD)
 2024-03-25, Celtics, ,Derrick White, sprained right hand (DTD)
-2024-03-25, Grizzlies, ,John Konchar, sore right heel (DTD)
 2024-03-25, Grizzlies,Lamar Stevens, , returned to lineup
 2024-03-25, Hornets,J.T. Thor, , returned to lineup
 2024-03-25, Knicks, ,Alec Burks, sprained right shoulder (DTD)
@@ -30809,7 +30775,6 @@ Date,Team,Acquired,Relinquished,Notes
 2024-03-25, Wizards, ,Deni Avdija, illness (DTD)
 2024-03-25, 76ers,Kai Jones, , returned to lineup
 2024-03-26, Heat,Jaime Jaquez Jr., , returned to lineup
-2024-03-26, Jazz, ,Jordan Clarkson, sore lower back (DTD)
 2024-03-26, Lakers, ,LeBron James, left ankle injury (DTD)
 2024-03-26, Wizards,illness (DTD), , returned to lineup
 2024-03-27, 76ers,Kelly Oubre Jr., , returned to lineup
@@ -30823,114 +30788,116 @@ Date,Team,Acquired,Relinquished,Notes
 2024-03-28, Blazers, ,Toumani Camara, bruised left rib (DTD)
 2024-03-28, Celtics, ,Al Horford, sprained left big toe (DTD)
 2024-03-28, Pelicans, ,Jose Alvarado, strained right oblique (DTD)
-2024-03-28, Wizards, ,Richaun Holmes, bruised left toe (DTD)
 2024-03-29, Celtics,Al Horford, , returned to lineup
-2024-03-29, Grizzlies, ,Desmond Bane, sore back (DTD)
-2024-03-29, Jazz, ,Lauri Markkanen, sore right shoulder / right shoulder impingement (DTD)
 2024-03-29, Pistons, ,Marcus Sasser, illness (DTD)
 2024-03-29, Pistons,Jaden Ivey, , returned to lineup
 2024-03-29, Suns,Jusuf Nurkic, , returned to lineup
 2024-03-29, Warriors, ,Klay Thompson, right knee tendinitis (DTD)
-2024-03-30, Kings, ,Malik Monk, sprained MCL in right knee (out indefinitely)
 2024-03-31, 76ers, ,Tyrese Maxey, left hip injury (DTD)
-2024-03-31, Blazers, ,Matisse Thybulle, right ankle impingement (DTD)
-2024-03-31, Jazz, ,John Collins (Martin), back spasms (DTD)
+2024-03-31, Blazers, ,Matisse Thybulle, right ankle impingement (out for season)
 2024-03-31, Lakers, ,Jaxson Hayes, bruised left calf (DTD)
-2024-03-31, Spurs, ,Dominick Barlow, sore left knee (DTD)
 2024-03-31, Warriors,Klay Thompson, , returned to lineup
 2024-04-01, Nets, ,Cameron Johnson, sprained left big toe (DTD)
-2024-04-01, Nets, ,Dennis Smith Jr., right hip injury (DTD)
-2024-04-01, Spurs, ,Devin Vassell, right foot injury (out for season)
-2024-04-01, Spurs, ,Jeremy Sochan, surgery on left ankle (out for season)
-2024-04-02, Bucks, ,Jaylin Galloway, sprained right ankle (DTD)
-2024-04-02, Clippers, ,Kawhi Leonard, sore right knee (DTD)
+2024-04-01, Nets, ,Dennis Smith Jr., right hip injury (out for season)
+2024-04-02, Bucks, ,Jaylin Galloway, sprained right ankle (out for season)
 2024-04-02, Lakers,Jaxson Hayes, , returned to lineup
-2024-04-02, Mavericks, ,Dereck Lively II, sore right knee (DTD)
-2024-04-03, Clippers, ,Joshua Primo, sprained left ankle (DTD)
-2024-04-03, Grizzlies, ,Santi Aldama, sore right foot (DTD)
+2024-04-03, Grizzlies, ,Santi Aldama, sore right foot (out for season)
 2024-04-03, Hornets, ,Miles Bridges, bruised right wrist (DTD)
 2024-04-03, Hornets, ,Vasilije Micic, strained right shoulder (DTD)
 2024-04-03, Nets,Cameron Johnson, , returned to lineup
-2024-04-03, Pistons, ,Cade Cunningham, left knee injury (DTD)
+2024-04-03, Pistons, ,Cade Cunningham, left knee injury (out for season)
 2024-04-03, Pistons,Marcus Sasser, , returned to lineup
 2024-04-03, Raptors, ,Bruce Brown, sore right knee (DTD)
 2024-04-03, Raptors, ,Gary Trent Jr., back spasms (DTD)
 2024-04-03, Raptors, ,R.J. Barrett, left knee injury (DTD)
 2024-04-03, Wizards, ,Johnny Davis (Christian), sprained left ankle (DTD)
-2024-04-03, Wizards, ,Marvin Bagley III, sprained right knee (out indefinitely)
 2024-04-04, 76ers, ,Tobias Harris, bruised left knee (DTD)
 2024-04-04, 76ers,Tyrese Maxey, , returned to lineup
 2024-04-04, Grizzlies, ,Brandon Clarke, left Achilles injury (DTD)
-2024-04-04, Grizzlies, ,Jaren Jackson Jr., right quadriceps tendinitis (DTD)
-2024-04-04, Jazz, ,Walker Kessler, nasal fracture (DTD)
 2024-04-04, Knicks, ,Julius Randle, surgery on right shoulder (out for season)
 2024-04-04, Raptors,R.J. Barrett, , returned to lineup
-2024-04-04, Spurs, ,Cedi Osman, sprained right ankle (DTD)
-2024-04-04, Wizards, ,Kyle Kuzma, sprained right ankle (DTD)
 2024-04-04, 76ers, ,Mohamed Bamba / Mo Bamba, illness (DTD)
-2024-04-05, Bucks, ,MarJon Beauchamp, sprained right ankle (DTD)
-2024-04-05, Grizzlies, ,Luke Kennard, sore left knee (DTD)
+2024-04-05, Grizzlies, ,Luke Kennard, sore left knee (out for season)
 2024-04-05, Hornets,Miles Bridges, , returned to lineup
 2024-04-05, Hornets,Vasilije Micic, , returned to lineup
 2024-04-05, Magic, ,Jonathan Isaac, back spasms (DTD)
 2024-04-05, Mavericks, ,Maximilian Kleber / Maxi Kleber, back spasms (DTD)
 2024-04-05, Pelicans, ,Zion Williamson, bruised left finger (DTD)
 2024-04-05, Raptors,Gary Trent Jr., , returned to lineup
-2024-04-05, Rockets, ,Jae'Sean Tate, sprained right ankle (DTD)
 2024-04-05, Wizards,Johnny Davis (Christian), , returned to lineup
 2024-04-06, Grizzlies, ,Lamar Stevens, left groin injury (DTD)
 2024-04-06, Grizzlies,Brandon Clarke, , returned to lineup
-2024-04-06, Jazz, ,Kris Dunn, left foot injury (DTD)
 2024-04-06, Magic,Jonathan Isaac, , returned to lineup
 2024-04-06, Nets, ,Cameron Johnson, sprained left big toe (DTD)
 2024-04-06, Pistons, ,Evan Fournier, sore right knee (DTD)
 2024-04-06, Pistons, ,Jalen Duren, sprained left ankle (DTD)
 2024-04-07, 76ers,Mohamed Bamba / Mo Bamba, , returned to lineup
 2024-04-07, Mavericks,Maximilian Kleber / Maxi Kleber, , returned to lineup
-2024-04-07, Nets, ,Dorian Finney-Smith, left knee injury (DTD)
+2024-04-07, Nets, ,Dorian Finney-Smith, left knee injury (out for season)
 2024-04-07, Nets, ,Nicolas Claxton / Nic Claxton, sprained left ankle (DTD)
 2024-04-07, Pelicans,Zion Williamson, , returned to lineup
 2024-04-07, Raptors,Bruce Brown, , returned to lineup
 2024-04-07, Wizards, ,Anthony Gill, sore right knee (DTD)
-2024-04-08, Hawks, ,Seth Lundy, sore left ankle (DTD)
-2024-04-08, Heat, ,Duncan Robinson, back injury (DTD)
 2024-04-08, Pistons,Jalen Duren, , returned to lineup
-2024-04-08, Spurs, ,Keldon Johnson, sprained left foot (DTD)
-2024-04-09, 76ers, ,Kenyon Martin Jr. / K.J. Martin, bruised left toe (DTD)
-2024-04-09, 76ers, ,Kyle Lowry, left knee injury (DTD)
+2024-04-09, 76ers, ,Kenyon Martin Jr. / K.J. Martin, bruised left toe (out for season)
 2024-04-09, Blazers, ,Shaedon Sharpe, surgery on abdominal (out for season)
-2024-04-09, Bulls, ,Ayo Dosunmu, bruised right quadriceps (DTD)
-2024-04-09, Clippers, ,James Harden, sore right foot (DTD)
-2024-04-09, Heat, ,Terry Rozier, neck spasms (DTD)
-2024-04-09, Jazz, ,Collin Sexton, illness (DTD)
 2024-04-09, Lakers, ,Anthony Davis, headache (DTD)
-2024-04-09, Magic, ,Franz Wagner, sprained right ankle (DTD)
-2024-04-09, Nets, ,Jaylen Martin, sprained left ankle (DTD)
+2024-04-09, Nets, ,Jaylen Martin, sprained left ankle (out for season)
 2024-04-09, Pistons,Evan Fournier, , returned to lineup
 2024-04-09, Raptors, ,Gradey Dick, right groin injury (DTD)
 2024-04-09, Wizards, ,Tristan Vukcevic, sore left knee (DTD)
 2024-04-09, Wizards,Anthony Gill, , returned to lineup
-2024-04-10, Bulls, ,Andre Drummond, sprained left ankle (DTD)
-2024-04-10, Cavaliers, ,Sam Merrill, strained neck (DTD)
-2024-04-10, Grizzlies, ,Brandon Clarke, bruised right hand (DTD)
+2024-04-10, Grizzlies, ,Brandon Clarke, bruised right hand (out for season)
 2024-04-10, Grizzlies,Lamar Stevens, , returned to lineup
 2024-04-10, Hawks, ,Dejounte Murray, bruised right quadriceps (DTD)
-2024-04-10, Hawks, ,Jalen Johnson, sprained right ankle (DTD)
 2024-04-10, Hawks, ,Wesley Matthews / Wes Matthews Jr., right hamstring injury (DTD)
-2024-04-10, Magic, ,Gary Harris, right foot injury (DTD)
 2024-04-10, Nets,Cameron Johnson, , returned to lineup
 2024-04-10, Nets,Nicolas Claxton / Nic Claxton, , returned to lineup
 2024-04-10, Raptors, ,Bruce Brown, right knee inflammation (DTD)
 2024-04-10, Raptors, ,Gary Trent Jr., back spasms (DTD)
 2024-04-10, Raptors,Gradey Dick, , returned to lineup
-2024-04-11, Blazers, ,Dalano Banton, sprained left ankle (DTD)
-2024-04-11, Bucks, ,A.J. Green, sprained left ankle (DTD)
-2024-04-11, Celtics, ,Oshae Brissett, illness (DTD)
-2024-04-11, Grizzlies, ,Lamar Stevens, left groin injury (DTD)
-2024-04-11, Kings, ,JaVale McGee, illness (DTD)
-2024-04-11, Kings, ,Jordan Ford, right hip injury (DTD)
-2024-04-11, Mavericks, ,Kyrie Irving, left hamstring injury (DTD)
-2024-04-11, Warriors, ,Draymond Green, bruised right knee (DTD)
-2024-04-11, Warriors, ,Gary Payton II, left calf injury (DTD)
-2024-04-11, Warriors, ,Klay Thompson, right knee tendinitis (DTD)
 2024-04-11, Wizards,Tristan Vukcevic, , returned to lineup
+2024-04-12, Bulls, ,Alex Caruso, bruised left ankle (DTD)
+2024-04-12, Celtics, ,Derrick White, sprained left ankle (DTD)
+2024-04-12, Hawks,Dejounte Murray, , returned to lineup
+2024-04-12, Knicks, ,Miles McBride, illness (DTD)
+2024-04-12, Lakers,Anthony Davis, , returned to lineup
+2024-04-12, Nets, ,Cameron Johnson, sprained left big toe (out for season)
+2024-04-12, Pistons, ,Jalen Duren, lower back spasms (out for season)
+2024-04-12, Raptors,Bruce Brown, , returned to lineup
+2024-04-12, Raptors,Gary Trent Jr., , returned to lineup
+2024-04-12, Wizards, ,Jordan Poole, illness (out for season)
+2024-04-13, Bulls,Alex Caruso, , returned to lineup
+2024-04-13, Knicks,Miles McBride, , returned to lineup
+2024-04-13, Mavericks, ,Dante Exum, sprained right foot (DTD)
+2024-04-13, Mavericks, ,Derrick Jones Jr., sprained left shoulder (DTD)
+2024-04-13, Rockets, ,Dillon Brooks, left adductor injury (DTD)
+2024-04-14, 76ers, ,De'Anthony Melton, back injury (DTD)
+2024-04-14, 76ers, ,Joel Embiid, left knee injury (out for season)
+2024-04-14, Blazers, ,Sterling Henderson / Scoot Henderson, sore left hip (out for season)
+2024-04-14, Hornets, ,Davis Bertans, sore Achilles (out for season)
+2024-04-14, Raptors, ,R.J. Barrett, sore knee (out for season)
+2024-04-14, Wizards, ,Tristan Vukcevic, sprained right ankle (out for season)
+2024-04-16, Bulls, ,Onuralp Bitim, detached retina in right eye (out for season)
+2024-04-18, Heat, ,Jimmy Butler, MCL injury in right knee (out for season)
+2024-04-20, Kings, ,Kevin Huerter, surgery on left shoulder to repair torn labrum (out for season) (date approximate)
+2024-04-21, Celtics,Derrick White, , returned to lineup
+2024-04-21, Mavericks,Dante Exum, , returned to lineup
+2024-04-21, Mavericks,Derrick Jones Jr., , returned to lineup
+2024-04-25, Mavericks, ,Olivier-Maxence Prosper, sprained left ankle (DTD)
+2024-04-28, Knicks, ,Mitchell Robinson, sprained left ankle (DTD)
+2024-04-29, Heat,Delon Wright, , returned to lineup
+2024-04-29, Knicks, ,Bojan Bogdanovic, bruised left ankle (DTD)
+2024-04-30, Cavaliers, ,Jarrett Allen, bruised rib (out for season)
+2024-04-30, Celtics, ,Kristaps Porzingis, strained right calf (out indefinitely)
+2024-04-30, Heat, ,Jaime Jaquez Jr., strained right hip flexor (out for season)
+2024-04-30, Knicks,Mitchell Robinson, , returned to lineup
+2024-05-03, Magic, ,Gary Harris, strained right hamstring (DTD)
+2024-05-04, Mavericks, ,Maximilian Kleber / Maxi Kleber, dislocated right shoulder (out indefinitely)
+2024-05-05, Magic,Gary Harris, , returned to lineup
+2024-05-09, Knicks, ,Ogugua Anunoby / O.G. Anunoby, strained left hamstring (DTD)
+2024-05-13, Cavaliers, ,Donovan Mitchell, strained left calf (out for season)
+2024-05-14, Timberwolves, ,Mike Conley Jr., sore right Achilles (DTD)
+2024-05-15, Cavaliers, ,Caris LeVert, bruised left knee (out for season)
+2024-05-16, Timberwolves,Mike Conley Jr., , returned to lineup
+2024-05-19, Knicks,Ogugua Anunoby / O.G. Anunoby, , returned to lineup
