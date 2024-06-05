@@ -26,5 +26,5 @@ The data used in this project is owned by P3 and is subject to a non-disclosure 
 - Libraries: NumPy, Pandas, Scikit-Learn, Matplotlib, xgboost etc.
 
 ## Acknowledgments
-I hereby express my deepest gratitude to UCSB and P3 for their invaluable guidance and support throughout this project.
+I hereby express my deepest gratitude to UCSB faculty and P3 advisors for their invaluable guidance and support throughout this project.
 Special thanks to P3 for sponsoring the project and providing the data essential for our research.
